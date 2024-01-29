@@ -49,8 +49,8 @@ type nul > .env.development.local
 
 ```bash
 GOOGLE_CLIENT_ID=508816847621-jd5rqskggrh7veqi4pqjtj3nfleqt405.apps.googleusercontent.com
-GOOGLE_CLIENT_SECRET=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
-API_ROUTE_SECRET="Tfqa*oiQ35e$"
+GOOGLE_CLIENT_SECRET={ask admin for secret}
+API_ROUTE_SECRET=(ask admin for secret}
 AUTH_ORIGIN="http://localhost:3000"
 BASE_URL="http://localhost:3000"
 ```
